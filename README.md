@@ -1,6 +1,6 @@
 # Parallel-File-Sharing
 
-![](prallel.png?raw=true "Title")
+![](prallel.png)
 
 Parallel upload and download of file 
 

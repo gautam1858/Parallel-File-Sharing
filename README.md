@@ -1,7 +1,7 @@
 # Parallel-File-Sharing
 
 ![] (prallel.png)
-
+![parallel.png](parallel.png)
 Parallel upload and download of file 
 
 From the Server this platform allows parallel upload and download.
